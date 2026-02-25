@@ -1,0 +1,10 @@
+{
+    "model": "TARNet",
+    "mean_pehe": 3.386089324951172,
+    "std_pehe": 0.1569848358631134,
+    "mean_ate": 0.19160953164100647,
+    "std_ate": 0.14992766082286835,
+    "n_seeds": 5,
+    "split": "80/20 stratified",
+    "random_state": 42
+}

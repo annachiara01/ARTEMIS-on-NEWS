@@ -1,0 +1,12 @@
+{
+    "model": "TARNet",
+    "dataset": "NEWS binary",
+    "n_samples": 5000,
+    "n_features": 3477,
+    "splits": "80/20 stratified",
+    "seeds": 5,
+    "pehe_mean": 3.386089324951172,
+    "pehe_std": 0.1569848358631134,
+    "ate_mean": 0.19160953164100647,
+    "ate_std": 0.14992766082286835
+}

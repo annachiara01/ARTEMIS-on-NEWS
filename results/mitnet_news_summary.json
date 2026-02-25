@@ -1,0 +1,10 @@
+{
+    "model": "MITNet",
+    "mean_pehe": 3.708310604095459,
+    "std_pehe": 0.1619253307580948,
+    "mean_ate": 0.25506672263145447,
+    "std_ate": 0.04932622238993645,
+    "n_seeds": 5,
+    "split": "80/20 stratified",
+    "random_state": 42
+}

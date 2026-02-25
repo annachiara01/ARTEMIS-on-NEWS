@@ -1,0 +1,14 @@
+{
+    "lr": 0.001,
+    "batch_size": 128,
+    "latent_dim": 64,
+    "alpha": 0.5,
+    "perc": 20,
+    "ite_update_freq": 5,
+    "critic_steps": 5,
+    "lr_critic": 0.001,
+    "outcome_clip_factor": 2.0,
+    "margin": 1.0,
+    "epochs": 200,
+    "patience": 20
+}
